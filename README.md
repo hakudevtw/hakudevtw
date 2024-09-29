@@ -1,3 +1,10 @@
+<section align="center">
+  <h1>Hey, I'm Haku</h1>
+
+<img alt="" src="https://i.pinimg.com/originals/00/28/b9/0028b919673f7d6f8f43b193c0bff4dd.gif" width="200"/>
+
+</section>
+
 ### 👨🏻‍💻 &nbsp; About Me
 
 - Only open for jobs in Japan or full remote position
@@ -7,8 +14,6 @@
 - Enjoyment in seeking new possibilities and problem-solving methods through discussions and sharing
 
 ### 🛠 &nbsp; Tech Stack
-
-<img alt="" src="https://i.pinimg.com/originals/00/28/b9/0028b919673f7d6f8f43b193c0bff4dd.gif" width="200" align="left"/>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
