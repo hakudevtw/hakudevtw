@@ -8,7 +8,7 @@
 
 ### 🛠 &nbsp; Tech Stack
 
-<img alt="" src="" align="right" />
+<img alt="" src="https://i.pinimg.com/originals/00/28/b9/0028b919673f7d6f8f43b193c0bff4dd.gif" width="200" align="left"/>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -35,8 +35,8 @@
 
 <section align="center">
   <a href="https://github.com/hakudevtw">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakudevtw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hakudevtw&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakudevtw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hakudevtw&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </section>
 
@@ -51,7 +51,7 @@
   </a>&nbsp;
 </section>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
   Last Edited on: 2024/09/27
