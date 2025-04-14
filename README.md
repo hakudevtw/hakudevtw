@@ -7,11 +7,23 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- Only open for jobs in Japan or full remote position
-- Frontend development
-- Team recruitment and team management experience
-- Continuous learning in my spare time through online resources and original documentation
-- Enjoyment in seeking new possibilities and problem-solving methods through discussions and sharing
+- **Frontend Engineer** with 2.5+ years of experience building performant and maintainable web applications
+- Proficient in **TypeScript**, **React**, and **Next.js**
+- Skilled in:
+  - **SEO optimization**
+  - **Authentication flows**
+  - **Cross-platform development** with React Native
+- Passionate about:
+  - Crafting **clean UIs**
+  - **Optimizing performance**
+  - **Improving user experience**
+- Enjoys:
+  - **Cross-functional collaboration**
+  - **Mentoring junior developers**
+- Currently seeking **frontend opportunities in Japan** (hybrid or remote)
+- Languages:
+  - **Fluent in English**
+  - **Conversational in Japanese**
 
 ### 🛠 &nbsp; Tech Stack
 
