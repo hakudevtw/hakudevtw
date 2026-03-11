@@ -1,52 +1,41 @@
 <section align="center">
-  <h1>Hey, I'm Haku</h1>
+  <h1>Hey, I'm CHEN PO YUEH (Haku)</h1>
 
-<img alt="" src="https://i.pinimg.com/originals/00/28/b9/0028b919673f7d6f8f43b193c0bff4dd.gif" width="200"/>
+<img alt="coding gif" src="https://i.pinimg.com/originals/00/28/b9/0028b919673f7d6f8f43b193c0bff4dd.gif" width="200"/>
 
 </section>
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- **Frontend Engineer** with 2.5+ years of experience building performant and maintainable web applications
-- Proficient in **TypeScript**, **React**, and **Next.js**
-- Skilled in:
-  - **SEO optimization**
-  - **Authentication flows**
-  - **Cross-platform development** with React Native
-- Passionate about:
-  - Crafting **clean UIs**
-  - **Optimizing performance**
-  - **Improving user experience**
-- Enjoys:
-  - **Cross-functional collaboration**
-  - **Mentoring junior developers**
-- Currently seeking **frontend opportunities in Japan** (hybrid or remote)
-- Languages:
-  - **Fluent in English**
-  - **Conversational in Japanese**
+- **Senior Frontend Engineer**: 3+ years of experience specializing in TypeScript, React, and Next.js.
+- **Performance Specialist**: Proven track record of improving Lighthouse scores from 36 to 85+ and optimizing Core Web Vitals (FCP/LCP).
+- **Infrastructure & DX**: Expert in building CI/CD pipelines (GitHub Actions), managing Monorepos (Turborepo/pnpm), and implementing BFF architectures.
+- **Leadership**: Served as a sub-leader for a team of 9; experienced in technical selection, mentoring junior developers, and establishing Design Systems.
+- **Global Communicator**: Native proficiency in Mandarin and English; Conversational in Japanese (JLPT N2 level).
 
 ### 🛠 &nbsp; Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
-![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 
 ![Turborepo](https://img.shields.io/badge/-Turborepo-05122A?style=flat&logo=turborepo)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+
+### 🚀 &nbsp; Key Achievements (2024-2026)
+
+* **Automated Quality Control**: Integrated Lighthouse CI into a pnpm Monorepo, automating performance monitoring and preventing quality regression during deployment.
+* **Scalable Architecture**: Designed and implemented a BFF (Backend For Frontend) for a rental platform to unify multi-provider APIs and enhance error handling.
+* **Design System Leadership**: Collaborated with design teams to build a cross-project UI component library using React and Tailwind, significantly reducing code redundancy.
+* **Legacy Migration**: Successfully refactored legacy jQuery and EJS codebases into modern React architectures, improving maintainability and UX.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -71,5 +60,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
-  Last Edited on: 2024/09/27
+  Last Updated: 2026/02/18
 </p>
