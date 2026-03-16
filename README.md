@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- **Senior Frontend Engineer**: 3+ years of experience specializing in TypeScript, React, and Next.js.
+- **Frontend Engineer**: 3+ years of experience specializing in TypeScript, React, and Next.js.
 - **Performance Specialist**: Proven track record of improving Lighthouse scores from 36 to 85+ and optimizing Core Web Vitals (FCP/LCP).
 - **Infrastructure & DX**: Expert in building CI/CD pipelines (GitHub Actions), managing Monorepos (Turborepo/pnpm), and implementing BFF architectures.
 - **Leadership**: Served as a sub-leader for a team of 9; experienced in technical selection, mentoring junior developers, and establishing Design Systems.
