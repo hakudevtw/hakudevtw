@@ -5,37 +5,48 @@
 
 </section>
 
+<!-- generated:start -->
+
+<!--
+  由 hakudevtw/me 的 scripts/generate-profile.ts 產生，不要手改這一段。
+  內容來自 Payload；在 CMS 改完之後，每週的 workflow（或手動執行
+  .github/workflows/profile.yml）會把這裡更新。標記以外的區塊不受影響。
+-->
+
 ### 👨🏻‍💻 &nbsp; About Me
 
-- **Frontend Engineer**: 4+ years of experience specializing in TypeScript, React, and Next.js.
-- **Performance Specialist**: Proven track record of improving Lighthouse scores from 36 to 85+ and optimizing Core Web Vitals (FCP/LCP).
-- **Infrastructure & DX**: Expert in building CI/CD pipelines (GitHub Actions), managing Monorepos (Turborepo/pnpm), and implementing BFF architectures.
-- **Leadership**: Served as a sub-leader for a team of 9; experienced in technical selection, mentoring junior developers, and establishing Design Systems.
-- **Global Communicator**: Native proficiency in Mandarin and English; Conversational in Japanese (JLPT N2 level).
+**Nobody assigned my best work.**
+
+Frontend engineer in Tokyo. Four years of finding the problem nobody had picked up yet — performance, build pipelines, design systems — and shipping the fix.
+
+🌐 &nbsp;**[hakudevtw.vercel.app](https://hakudevtw.vercel.app)** — work, experience, and a printable résumé
 
 ### 🛠 &nbsp; Tech Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+What I use daily:
+
+![Git / GitHub](https://img.shields.io/badge/-Git%20%2F%20GitHub-05122A?style=flat&logo=github)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![HTML / CSS](https://img.shields.io/badge/-HTML%20%2F%20CSS-05122A?style=flat&logo=html5)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
-![Turborepo](https://img.shields.io/badge/-Turborepo-05122A?style=flat&logo=turborepo)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
-![pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm)&nbsp;
-![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
+Used on production projects: Figma · BFF · REST APIs · React Native · styled-components · Sass · React Hook Form · Redux · React Query · Zustand · Nginx · Docker · ESLint · pnpm workspace · Turborepo · GitHub Actions
 
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+### 🚀 &nbsp; Key Achievements
 
-### 🚀 &nbsp; Key Achievements (2024-2026)
+- **Car Rental Japan** — Released in January 2026 and profitable from the first month, on a maintainable delivery foundation. Development is ongoing.
+- **Shinkansen Platform Performance Optimization** — Raised the mobile performance score from 36 to over 85.
+- **Shared UI Library & Design System** — The design team could work from a shared Figma component library while the frontend team implemented matching components — consistent UI/UX with substantially less duplicated code. The library was in production use before I left, and other members kept extending it.
 
-* **Automated Quality Control**: Integrated Lighthouse CI into a pnpm Monorepo, automating performance monitoring and preventing quality regression during deployment.
-* **Scalable Architecture**: Designed and implemented a BFF (Backend For Frontend) for a rental platform to unify multi-provider APIs and enhance error handling.
-* **Design System Leadership**: Collaborated with design teams to build a cross-project UI component library using React and Tailwind, significantly reducing code redundancy.
-* **Legacy Migration**: Successfully refactored legacy jQuery and EJS codebases into modern React architectures, improving maintainability and UX.
+### 🌐 &nbsp; Languages
+
+Traditional Chinese (Native) · English (TOEIC 895 — business proficiency) · Japanese (JLPT N2 — conversational and business communication)
+
+<sub>Last updated: 2026/09/06 — generated from CMS data</sub>
+<!-- generated:end -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -58,7 +69,3 @@
 </section>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<p align="center">
-  Last Updated: 2026/02/18
-</p>
