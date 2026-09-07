@@ -45,7 +45,7 @@ Used on production projects: Figma · BFF · REST APIs · React Native · styled
 
 Traditional Chinese (Native) · English (TOEIC 895 — business proficiency) · Japanese (JLPT N2 — conversational and business communication)
 
-<sub>Last updated: 2026/09/06 — generated from CMS data</sub>
+<sub>Last updated: 2026/09/07 — generated from CMS data</sub>
 <!-- generated:end -->
 
 ### ⚙️ &nbsp;GitHub Analytics
